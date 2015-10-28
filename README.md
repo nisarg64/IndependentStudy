@@ -1,4 +1,4 @@
-# IndependentStudy
+# Independent Study Report
 
 ### ArXiV Paper Extraction:
 - Code: https://github.com/nisarg64/ArXiv-Paper-Extraction
