@@ -10,9 +10,10 @@
 - Purpose: Performed sentiment analysis on computer science dataset to find the obvious sentiment of the computer science text.
 - Reference: http://www.csc.ncsu.edu/faculty/healey/maa-16/text/
 
-### Word2Vec
-### Doc2Vec
+### Word2Vec-Doc2Vec Agorithms:
+- Code: https://github.com/nisarg64/Word2Vec-Doc2Vec
+- Purpose: Implemented word2vec/doc2vec models using python's gensim package to improve the document embeddings for CSC791 dataset.
+- Reference: https://www.kaggle.com/c/word2vec-nlp-tutorial
 
-### Recursive Neural Network
-### Pyspark
-### LDA
+
+
