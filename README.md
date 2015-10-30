@@ -15,6 +15,10 @@
 - Purpose: Implemented word2vec/doc2vec models using python's gensim package to improve the document embeddings for CSC791 dataset.
 - Reference: https://www.kaggle.com/c/word2vec-nlp-tutorial
 
+### Sentiment Analysis using Doc2vec Algorithm:
+- Code: https://github.com/nisarg64/Sentiment-Analysis-Word2Vec
+- Purpose: Working on implementing sentiment analysis using word2vec/doc2vec algorithm
+
 ### Sentiment Analysis using Recursive Neural Network Algorithm:
 - Code: https://github.com/nisarg64/Sentiment-Analysis-RNN
 - Purpose: Working on implementing sentiment analysis using recursive neural network algorithm as described in Stanford's RNN paper
